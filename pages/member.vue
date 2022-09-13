@@ -10,7 +10,7 @@
         <h2>Sambutan Pelatih</h2>
         <div class="row">
             <div class="col-sm-6">
-                <img src="/images/pelatih.png" style="height:300px;width:100%;" alt="">
+                <img src="/images/pelatih.PNG" style="height:300px;width:100%;" alt="">
             </div>
             <div class="col-sm-6">
                 <br>    
@@ -25,7 +25,7 @@
         <div class="row">
             <div class="col-sm-4">
                 <div class="card" style="width: 100%;">
-                <img src="/images/malehoy.png" class="card-img-top" style="height:200px;" alt="rizky">
+                <img src="/images/malehoy.PNG" class="card-img-top" style="height:200px;" alt="rizky">
                 <div class="card-body">
                     <h5 class="card-title">Rizky Andiansah</h5>
                     <p class="card-text">Tangan : Kanan</p>
@@ -35,7 +35,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="card" style="width: 100%;">
-                <img src="/images/akhdan.png" class="card-img-top" style="height:200px;" alt="rizky">
+                <img src="/images/akhdan.PNG" class="card-img-top" style="height:200px;" alt="rizky">
                 <div class="card-body">
                     <h5 class="card-title">Akhdan Nadief Biantara</h5>
                     <p class="card-text">Tangan : Kanan</p>
@@ -45,7 +45,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="card" style="width: 100%;">
-                <img src="/images/syafiq.png" class="card-img-top" style="height:200px;" alt="rizky">
+                <img src="/images/syafiq.PNG" class="card-img-top" style="height:200px;" alt="rizky">
                 <div class="card-body">
                     <h5 class="card-title">Syafiq Irham Sambara Hafidz</h5>
                     <p class="card-text">Tangan : Kanan</p>
@@ -55,7 +55,7 @@
             </div>
             <div class="col-sm-6 my-3">
                 <div class="card" style="width: 100%;">
-                <img src="/images/fadlan.png" class="card-img-top" style="height:200px;" alt="rizky">
+                <img src="/images/fadlan.PNG" class="card-img-top" style="height:200px;" alt="rizky">
                 <div class="card-body">
                     <h5 class="card-title">Muhammad Fadlan Iskandar</h5>
                     <p class="card-text">Tangan : Kanan</p>
@@ -65,7 +65,7 @@
             </div>
             <div class="col-sm-6 my-3">
                 <div class="card" style="width: 100%;">
-                <img src="/images/fadli.png" class="card-img-top" style="height:200px;" alt="rizky">
+                <img src="/images/fadli.PNG" class="card-img-top" style="height:200px;" alt="rizky">
                 <div class="card-body">
                     <h5 class="card-title">Achmad Fadli Iskandar</h5>
                     <p class="card-text">Tangan : Kanan</p>
