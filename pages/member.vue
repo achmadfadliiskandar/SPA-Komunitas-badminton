@@ -53,7 +53,7 @@
                 </div>
                 </div>
             </div>
-            <div class="col-sm-6 my-3">
+            <div class="col-sm-4 my-3">
                 <div class="card" style="width: 100%;">
                 <img src="/images/fadlan.PNG" class="card-img-top" style="height:200px;" alt="rizky">
                 <div class="card-body">
@@ -63,7 +63,27 @@
                 </div>
                 </div>
             </div>
-            <div class="col-sm-6 my-3">
+            <div class="col-sm-4 my-3">
+                <div class="card" style="width: 100%;">
+                <img src="/images/rani.jpg" class="card-img-top" style="height:200px;" alt="rani">
+                <div class="card-body">
+                    <h5 class="card-title">Maharani Faizah Iskandar</h5>
+                    <p class="card-text">Tangan : Kanan</p>
+                    <a href="#" class="btn btn-primary">Lihat Tentang Saya</a>
+                </div>
+                </div>
+            </div>
+            <div class="col-sm-4 my-3">
+                <div class="card" style="width: 100%;">
+                <img src="/images/faiz.jpg" class="card-img-top" style="height:200px;" alt="faiz">
+                <div class="card-body">
+                    <h5 class="card-title">Muhammad Faiz Iskandar</h5>
+                    <p class="card-text">Tangan : Kanan</p>
+                    <a href="#" class="btn btn-primary">Lihat Tentang Saya</a>
+                </div>
+                </div>
+            </div>
+            <div class="col-sm-4 my-3">
                 <div class="card" style="width: 100%;">
                 <img src="/images/fadli.PNG" class="card-img-top" style="height:200px;" alt="rizky">
                 <div class="card-body">
