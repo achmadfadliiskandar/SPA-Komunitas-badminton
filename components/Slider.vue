@@ -7,24 +7,24 @@
 </div>
 <div class="carousel-inner">
 <div class="carousel-item active">
-    <img src="/images/slider1.jpg" class="d-block w-100 gambar" alt="gambar1">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aconcagua2016.jpg/600px-Aconcagua2016.jpg" class="d-block w-100 gambar" alt="gambar1">
     <div class="carousel-caption d-none d-md-block">
-    <h5>Pemain Indonesia yang Menjadi juara 3 olimpiade tokyo th 2020</h5>
-    <p>kategori : tunggal putra</p>
+    <h5>Section 1</h5>
+    <p>Gunung</p>
     </div>
 </div>
 <div class="carousel-item">
-    <img src="/images/slider2.jpg" class="d-block w-100 gambar" alt="gambar2">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wonder_Lake_and_Denali.jpg/600px-Wonder_Lake_and_Denali.jpg" class="d-block w-100 gambar" alt="gambar2">
     <div class="carousel-caption d-none d-md-block">
-    <h5>Pemain Denmark yang dijuluki sebagai monster/alien</h5>
-    <p>kategori : tunggal putra</p>
+    <h5>Section 2</h5>
+    <p>Hall Garden</p>
     </div>
 </div>
 <div class="carousel-item">
     <img src="/images/slider3.jpg" class="d-block w-100 gambar" alt="gambar3">
     <div class="carousel-caption d-none d-md-block">
     <h5>Pemain Ganda Putri juara 1 olimpiade tokyo 2020</h5>
-    <p>kategori: ganda putri</p>
+    <p>Ganda Putri</p>
     </div>
 </div>
 </div>
